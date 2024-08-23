@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(34, 34, 34);
+    color: #fff;
+    font-family: 'Poppins';
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
